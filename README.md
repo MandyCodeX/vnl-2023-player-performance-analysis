@@ -92,7 +92,7 @@ Comparison of scoring potency among leading volleyball nations:
 
 ---
 
-### 4. Player Specialization: Blocking vs. Reception
+### 4. Player Specialization: Block vs Receive
 Mapping defensive profiles by tactical position:
 
 ![Block vs Receive Scatter](assets/block_vs_receive_scatter.png)
@@ -178,21 +178,9 @@ Open [`Notebook.ipynb`](Notebook.ipynb) to inspect or re-run the entire data ana
 ## 🛠️ Tech Stack
 
 - **Language**: Python 3.10+
-- **Data Manipulation**: [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
+- **Data Manipulation**: [Pandas](https://pandas.pydata.org/)
 - **Data Visualization**: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
 - **Interactive Environment**: [JupyterLab / Notebook](https://jupyter.org/)
-- **Image Processing**: [Pillow (PIL)](https://python-pillow.org/)
-
----
-
-## 💡 Suggested Repository Names
-
-When publishing this project on GitHub or GitLab, here are recommended naming conventions:
-
-1. **`vnl-2023-player-performance-analysis`** *(Recommended)* — Clean, descriptive, and highlights both the tournament and analytical focus.
-2. **`volleyball-nations-league-eda`** — Emphasizes the exploratory data analysis nature.
-3. **`vnl-analytics-2023`** — Compact and memorable.
-4. **`analyze-volleyball-data`** — Direct match with the current project directory.
 
 ---
 
